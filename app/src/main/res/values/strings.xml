@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">eShop</string>
+    <string name="sales_icon">Sales</string>
+    <string name="contacts_text">Контакти</string>
+    <string name="about_text">Про нас</string>
+    <string name="main_scene_text">Головна</string>
+    <string name="logo_of_app_1">Military</string>
+    <string name="logo_of_app_2">Market</string>
+    <string name="filter_text">Filter</string>
+    <string name="category_text">Category</string>
+    <string name="item_text">Item</string>
+    <string name="price_text">Ціна :</string>
+    <string name="level_text">Рівень захисту :</string>
+    <string name="item_desc">Плитоноска, модульний чохол (MOLLE) для стандартних бронепластин з кишенями під магазини. Проста і надійна конструкція під пластини 25 см 30 см за доступною ціною. Колір - COYOTE (КОЙОТ). Тканина - Кордура 1000D + стропи MOLLLE підвищена міцність.</string>
+</resources>
